@@ -1,0 +1,8 @@
+.counter {
+    background-color: beige;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    gap:1rem;
+    padding: 4rem 0; 
+}
